@@ -1,0 +1,16 @@
+{
+  "name": "grpc-simple-wrapper",
+  "version": "0.0.2",
+  "description": "grpc wrapper",
+  "main":"./src",
+  "author": {"name":"loveloper","email":"loveloper44@gmail.com"},
+  "license": "ISC",
+  "dependencies": {
+    "grpc": "^1.10.1"
+  },
+  "licenses": [ {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  } ],
+  "keywords": ["grpc"]
+}
